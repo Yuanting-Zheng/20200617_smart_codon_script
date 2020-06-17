@@ -1,0 +1,2 @@
+# 20200617_smart_codon_script
+smart_codon_analysis
